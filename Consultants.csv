@@ -1,0 +1,151 @@
+Employee_ID,Employee_Name,Grade,Skill,Service_Line,Location,Cost_Per_Hour,Billing_Rate,Available_Hours_Per_Month
+E2001,Consultant 1,Consultant,Technology,Risk & Advisory,Bengaluru,36.5,99.13,168
+E2002,Consultant 2,Senior Consultant,Operations,Operations Consulting,Pune,51.13,115.24,160
+E2003,Consultant 3,Analyst,Risk,Risk & Advisory,Pune,25.95,71.1,160
+E2004,Consultant 4,Analyst,Technology,Data & Analytics,Noida,29.05,70.73,176
+E2005,Consultant 5,Senior Manager,Finance,Risk & Advisory,Mumbai,106.89,217.26,160
+E2006,Consultant 6,Consultant,Data Analytics,Risk & Advisory,Pune,42.0,96.51,168
+E2007,Consultant 7,Analyst,Operations,Technology Consulting,Pune,25.37,73.66,168
+E2008,Consultant 8,Senior Manager,Operations,Technology Consulting,Pune,107.34,225.42,176
+E2009,Consultant 9,Senior Manager,Operations,Technology Consulting,Pune,97.08,204.71,168
+E2010,Consultant 10,Consultant,Risk,Risk & Advisory,Gurugram,39.18,90.86,168
+E2011,Consultant 11,Manager,Technology,Strategy Consulting,Gurugram,69.07,162.98,168
+E2012,Consultant 12,Analyst,Risk,Risk & Advisory,Mumbai,29.33,67.62,160
+E2013,Consultant 13,Analyst,Cloud,Strategy Consulting,Bengaluru,26.22,71.29,160
+E2014,Consultant 14,Senior Consultant,Cloud,Strategy Consulting,Pune,55.7,133.24,168
+E2015,Consultant 15,Manager,Technology,Technology Consulting,Noida,80.11,155.47,176
+E2016,Consultant 16,Manager,Finance,Operations Consulting,Bengaluru,68.84,154.46,160
+E2017,Consultant 17,Consultant,Risk,Data & Analytics,Noida,40.28,91.29,176
+E2018,Consultant 18,Manager,Data Analytics,Technology Consulting,Bengaluru,71.0,170.97,168
+E2019,Consultant 19,Manager,Operations,Technology Consulting,Mumbai,72.64,167.45,168
+E2020,Consultant 20,Manager,Operations,Operations Consulting,Pune,74.61,154.5,160
+E2021,Consultant 21,Senior Consultant,Technology,Data & Analytics,Pune,53.41,133.38,168
+E2022,Consultant 22,Senior Consultant,Finance,Risk & Advisory,Hyderabad,56.64,130.8,160
+E2023,Consultant 23,Senior Consultant,Cloud,Risk & Advisory,Noida,54.78,115.46,168
+E2024,Consultant 24,Consultant,Cloud,Technology Consulting,Bengaluru,40.67,97.3,168
+E2025,Consultant 25,Senior Manager,Operations,Data & Analytics,Bengaluru,104.74,219.11,160
+E2026,Consultant 26,Senior Manager,Technology,Technology Consulting,Gurugram,101.15,205.78,160
+E2027,Consultant 27,Consultant,Risk,Strategy Consulting,Hyderabad,40.69,88.45,160
+E2028,Consultant 28,Consultant,Cloud,Technology Consulting,Gurugram,40.52,88.58,168
+E2029,Consultant 29,Consultant,Risk,Technology Consulting,Gurugram,39.03,88.98,168
+E2030,Consultant 30,Consultant,Finance,Risk & Advisory,Gurugram,38.7,100.17,176
+E2031,Consultant 31,Senior Manager,Cloud,Risk & Advisory,Noida,107.99,223.8,160
+E2032,Consultant 32,Analyst,Cloud,Risk & Advisory,Noida,28.6,65.78,168
+E2033,Consultant 33,Analyst,Strategy,Strategy Consulting,Mumbai,26.57,67.04,168
+E2034,Consultant 34,Consultant,Cloud,Risk & Advisory,Mumbai,39.99,89.92,160
+E2035,Consultant 35,Analyst,Data Analytics,Data & Analytics,Gurugram,27.05,66.49,176
+E2036,Consultant 36,Consultant,Technology,Operations Consulting,Hyderabad,43.47,100.13,160
+E2037,Consultant 37,Senior Consultant,Technology,Data & Analytics,Bengaluru,49.58,121.64,176
+E2038,Consultant 38,Senior Consultant,Risk,Data & Analytics,Noida,51.98,121.23,168
+E2039,Consultant 39,Consultant,Finance,Risk & Advisory,Hyderabad,38.92,90.86,176
+E2040,Consultant 40,Consultant,Cloud,Operations Consulting,Pune,39.9,96.64,168
+E2041,Consultant 41,Consultant,Data Analytics,Operations Consulting,Noida,42.81,93.17,160
+E2042,Consultant 42,Senior Consultant,Risk,Operations Consulting,Noida,50.47,129.88,160
+E2043,Consultant 43,Analyst,Strategy,Strategy Consulting,Mumbai,29.71,66.7,160
+E2044,Consultant 44,Senior Consultant,Risk,Risk & Advisory,Bengaluru,50.11,130.76,176
+E2045,Consultant 45,Senior Manager,Risk,Operations Consulting,Bengaluru,106.85,213.49,168
+E2046,Consultant 46,Consultant,Cloud,Strategy Consulting,Pune,36.41,89.14,160
+E2047,Consultant 47,Manager,Strategy,Technology Consulting,Pune,67.77,162.74,160
+E2048,Consultant 48,Consultant,Risk,Technology Consulting,Noida,41.58,100.53,168
+E2049,Consultant 49,Consultant,Data Analytics,Strategy Consulting,Gurugram,43.98,101.43,160
+E2050,Consultant 50,Senior Consultant,Data Analytics,Strategy Consulting,Mumbai,59.36,124.31,168
+E2051,Consultant 51,Senior Consultant,Technology,Risk & Advisory,Mumbai,55.84,124.62,168
+E2052,Consultant 52,Manager,Strategy,Risk & Advisory,Noida,81.26,176.05,168
+E2053,Consultant 53,Analyst,Strategy,Technology Consulting,Hyderabad,25.23,70.98,168
+E2054,Consultant 54,Consultant,Technology,Operations Consulting,Gurugram,43.8,87.9,168
+E2055,Consultant 55,Consultant,Risk,Technology Consulting,Noida,39.93,101.27,176
+E2056,Consultant 56,Senior Consultant,Strategy,Operations Consulting,Gurugram,57.45,119.96,160
+E2057,Consultant 57,Analyst,Data Analytics,Operations Consulting,Gurugram,29.8,70.87,176
+E2058,Consultant 58,Senior Manager,Data Analytics,Risk & Advisory,Gurugram,104.37,198.76,160
+E2059,Consultant 59,Consultant,Cloud,Data & Analytics,Noida,40.28,87.91,176
+E2060,Consultant 60,Analyst,Strategy,Data & Analytics,Mumbai,27.87,67.89,168
+E2061,Consultant 61,Manager,Risk,Strategy Consulting,Mumbai,80.08,172.41,160
+E2062,Consultant 62,Senior Consultant,Technology,Risk & Advisory,Gurugram,51.76,120.55,160
+E2063,Consultant 63,Senior Manager,Technology,Operations Consulting,Hyderabad,109.36,200.6,176
+E2064,Consultant 64,Consultant,Risk,Data & Analytics,Bengaluru,41.69,90.63,176
+E2065,Consultant 65,Consultant,Finance,Operations Consulting,Noida,37.6,95.23,160
+E2066,Consultant 66,Consultant,Operations,Data & Analytics,Bengaluru,41.89,102.23,176
+E2067,Consultant 67,Senior Manager,Cloud,Data & Analytics,Hyderabad,100.6,208.62,176
+E2068,Consultant 68,Analyst,Technology,Data & Analytics,Noida,29.16,70.64,176
+E2069,Consultant 69,Consultant,Strategy,Risk & Advisory,Gurugram,42.14,100.48,168
+E2070,Consultant 70,Analyst,Cloud,Technology Consulting,Mumbai,25.69,70.39,168
+E2071,Consultant 71,Analyst,Strategy,Operations Consulting,Bengaluru,28.03,66.47,176
+E2072,Consultant 72,Consultant,Finance,Risk & Advisory,Pune,43.46,91.95,176
+E2073,Consultant 73,Consultant,Data Analytics,Risk & Advisory,Pune,38.57,92.11,168
+E2074,Consultant 74,Consultant,Cloud,Risk & Advisory,Hyderabad,40.75,93.44,168
+E2075,Consultant 75,Manager,Technology,Risk & Advisory,Gurugram,73.04,163.07,160
+E2076,Consultant 76,Manager,Cloud,Risk & Advisory,Bengaluru,74.31,172.91,160
+E2077,Consultant 77,Analyst,Cloud,Strategy Consulting,Gurugram,28.27,68.31,168
+E2078,Consultant 78,Analyst,Cloud,Operations Consulting,Bengaluru,28.27,69.64,176
+E2079,Consultant 79,Senior Consultant,Operations,Risk & Advisory,Hyderabad,51.72,127.5,176
+E2080,Consultant 80,Consultant,Cloud,Operations Consulting,Hyderabad,41.48,93.14,176
+E2081,Consultant 81,Analyst,Strategy,Strategy Consulting,Pune,25.69,73.77,176
+E2082,Consultant 82,Consultant,Data Analytics,Strategy Consulting,Gurugram,37.11,96.33,160
+E2083,Consultant 83,Consultant,Finance,Operations Consulting,Noida,36.02,91.87,168
+E2084,Consultant 84,Manager,Risk,Data & Analytics,Pune,69.25,170.65,176
+E2085,Consultant 85,Analyst,Cloud,Technology Consulting,Gurugram,27.85,70.31,160
+E2086,Consultant 86,Senior Consultant,Technology,Data & Analytics,Pune,56.17,125.69,176
+E2087,Consultant 87,Consultant,Cloud,Data & Analytics,Noida,42.35,94.71,168
+E2088,Consultant 88,Consultant,Technology,Data & Analytics,Mumbai,36.85,94.95,160
+E2089,Consultant 89,Consultant,Strategy,Risk & Advisory,Mumbai,42.81,99.03,168
+E2090,Consultant 90,Analyst,Technology,Strategy Consulting,Mumbai,29.38,65.55,168
+E2091,Consultant 91,Senior Consultant,Risk,Data & Analytics,Mumbai,53.99,121.69,160
+E2092,Consultant 92,Analyst,Data Analytics,Strategy Consulting,Bengaluru,30.42,65.25,160
+E2093,Consultant 93,Analyst,Technology,Operations Consulting,Mumbai,30.75,72.84,160
+E2094,Consultant 94,Senior Consultant,Technology,Technology Consulting,Noida,51.76,120.45,160
+E2095,Consultant 95,Analyst,Data Analytics,Operations Consulting,Hyderabad,27.32,74.45,160
+E2096,Consultant 96,Analyst,Risk,Operations Consulting,Hyderabad,30.39,70.3,160
+E2097,Consultant 97,Consultant,Cloud,Risk & Advisory,Bengaluru,41.77,99.57,160
+E2098,Consultant 98,Analyst,Technology,Technology Consulting,Mumbai,25.47,75.36,176
+E2099,Consultant 99,Manager,Data Analytics,Operations Consulting,Mumbai,79.22,173.97,168
+E2100,Consultant 100,Analyst,Strategy,Operations Consulting,Mumbai,29.84,74.11,160
+E2101,Consultant 101,Consultant,Data Analytics,Technology Consulting,Pune,42.0,93.6,176
+E2102,Consultant 102,Consultant,Strategy,Technology Consulting,Gurugram,42.4,95.79,176
+E2103,Consultant 103,Senior Consultant,Risk,Operations Consulting,Pune,58.58,120.08,176
+E2104,Consultant 104,Consultant,Cloud,Technology Consulting,Gurugram,37.49,90.38,168
+E2105,Consultant 105,Analyst,Data Analytics,Operations Consulting,Mumbai,26.52,70.06,160
+E2106,Consultant 106,Senior Manager,Finance,Operations Consulting,Mumbai,102.68,213.19,176
+E2107,Consultant 107,Manager,Finance,Risk & Advisory,Pune,81.12,160.76,168
+E2108,Consultant 108,Manager,Operations,Data & Analytics,Pune,72.24,166.83,168
+E2109,Consultant 109,Analyst,Technology,Operations Consulting,Gurugram,28.49,74.34,168
+E2110,Consultant 110,Analyst,Risk,Strategy Consulting,Hyderabad,29.02,70.64,176
+E2111,Consultant 111,Consultant,Data Analytics,Data & Analytics,Gurugram,39.62,98.36,160
+E2112,Consultant 112,Consultant,Finance,Data & Analytics,Pune,41.71,99.64,176
+E2113,Consultant 113,Consultant,Technology,Data & Analytics,Noida,43.2,102.43,176
+E2114,Consultant 114,Manager,Finance,Risk & Advisory,Pune,76.86,167.72,160
+E2115,Consultant 115,Analyst,Data Analytics,Operations Consulting,Noida,28.22,73.44,160
+E2116,Consultant 116,Senior Manager,Strategy,Risk & Advisory,Bengaluru,98.77,225.55,160
+E2117,Consultant 117,Consultant,Data Analytics,Operations Consulting,Pune,40.62,101.76,168
+E2118,Consultant 118,Manager,Operations,Risk & Advisory,Bengaluru,72.83,155.52,160
+E2119,Consultant 119,Analyst,Data Analytics,Risk & Advisory,Hyderabad,27.39,68.95,176
+E2120,Consultant 120,Consultant,Data Analytics,Strategy Consulting,Gurugram,40.25,92.32,160
+E2121,Consultant 121,Senior Consultant,Operations,Risk & Advisory,Noida,50.23,116.74,176
+E2122,Consultant 122,Analyst,Risk,Technology Consulting,Gurugram,26.48,71.49,168
+E2123,Consultant 123,Analyst,Data Analytics,Strategy Consulting,Bengaluru,28.24,72.64,176
+E2124,Consultant 124,Senior Manager,Operations,Risk & Advisory,Noida,98.63,221.7,176
+E2125,Consultant 125,Senior Consultant,Technology,Data & Analytics,Gurugram,53.16,117.46,160
+E2126,Consultant 126,Analyst,Strategy,Technology Consulting,Pune,29.29,74.22,160
+E2127,Consultant 127,Consultant,Strategy,Technology Consulting,Mumbai,41.55,97.17,176
+E2128,Consultant 128,Consultant,Data Analytics,Technology Consulting,Bengaluru,37.33,98.1,160
+E2129,Consultant 129,Senior Consultant,Risk,Strategy Consulting,Gurugram,59.16,133.21,168
+E2130,Consultant 130,Analyst,Risk,Risk & Advisory,Bengaluru,27.97,71.4,168
+E2131,Consultant 131,Analyst,Technology,Risk & Advisory,Bengaluru,29.35,68.16,160
+E2132,Consultant 132,Analyst,Data Analytics,Data & Analytics,Noida,28.41,73.64,168
+E2133,Consultant 133,Consultant,Strategy,Data & Analytics,Noida,43.98,92.92,160
+E2134,Consultant 134,Senior Consultant,Risk,Technology Consulting,Mumbai,57.78,115.68,176
+E2135,Consultant 135,Analyst,Data Analytics,Data & Analytics,Pune,29.16,73.7,176
+E2136,Consultant 136,Manager,Finance,Strategy Consulting,Bengaluru,79.18,160.91,168
+E2137,Consultant 137,Consultant,Risk,Risk & Advisory,Gurugram,37.15,99.16,160
+E2138,Consultant 138,Analyst,Operations,Technology Consulting,Hyderabad,26.35,68.46,160
+E2139,Consultant 139,Analyst,Finance,Data & Analytics,Bengaluru,29.2,74.04,168
+E2140,Consultant 140,Analyst,Risk,Strategy Consulting,Bengaluru,27.97,66.86,176
+E2141,Consultant 141,Manager,Strategy,Strategy Consulting,Mumbai,78.82,177.53,168
+E2142,Consultant 142,Senior Consultant,Cloud,Data & Analytics,Pune,50.63,130.6,176
+E2143,Consultant 143,Consultant,Finance,Risk & Advisory,Hyderabad,40.29,89.14,160
+E2144,Consultant 144,Senior Consultant,Technology,Data & Analytics,Noida,53.67,126.32,176
+E2145,Consultant 145,Consultant,Technology,Technology Consulting,Noida,39.66,102.38,168
+E2146,Consultant 146,Senior Consultant,Strategy,Data & Analytics,Gurugram,56.14,124.42,160
+E2147,Consultant 147,Analyst,Risk,Strategy Consulting,Hyderabad,28.01,66.44,168
+E2148,Consultant 148,Consultant,Data Analytics,Data & Analytics,Noida,40.32,94.77,168
+E2149,Consultant 149,Analyst,Risk,Risk & Advisory,Gurugram,27.92,70.14,176
+E2150,Consultant 150,Analyst,Strategy,Operations Consulting,Pune,27.49,72.71,168

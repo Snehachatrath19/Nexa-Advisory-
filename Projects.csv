@@ -1,0 +1,121 @@
+Project_ID,Client_ID,Project_Name,Service_Line,Start_Date,End_Date,Project_Status,Budget_Hours,Budget_Cost,Contract_Value
+P3001,C1017,Advisory Project 1,Technology Consulting,2025-12-01,2026-03-01,Active,2759,194336.33,340833.07
+P3002,C1044,Advisory Project 2,Strategy Consulting,2026-06-03,2026-11-30,Completed,844,31065.97,87544.86
+P3003,C1020,Advisory Project 3,Risk & Advisory,2025-05-17,2025-07-16,Completed,435,21818.04,58725.68
+P3004,C1036,Advisory Project 4,Data & Analytics,2026-05-13,2027-01-08,Active,1875,90291.8,293799.47
+P3005,C1009,Advisory Project 5,Strategy Consulting,2026-04-22,2026-08-20,Completed,4357,230950.72,608576.78
+P3006,C1038,Advisory Project 6,Strategy Consulting,2025-08-11,2025-12-09,Completed,2198,86561.94,308424.64
+P3007,C1048,Advisory Project 7,Operations Consulting,2026-01-07,2026-05-07,Active,2245,183748.52,248248.36
+P3008,C1022,Advisory Project 8,Technology Consulting,2026-02-06,2026-08-05,Active,1808,113343.72,244242.92
+P3009,C1002,Advisory Project 9,Strategy Consulting,2026-03-19,2026-06-17,At Risk,2108,105982.26,220853.89
+P3010,C1024,Advisory Project 10,Strategy Consulting,2026-05-05,2026-11-01,Completed,3338,183086.22,322904.09
+P3011,C1008,Advisory Project 11,Risk & Advisory,2025-09-30,2026-01-28,Active,1700,97512.22,258713.55
+P3012,C1011,Advisory Project 12,Risk & Advisory,2026-06-10,2026-09-08,Completed,1643,106843.82,141097.7
+P3013,C1013,Advisory Project 13,Data & Analytics,2025-06-08,2026-02-03,Active,4376,265990.66,564495.8
+P3014,C1017,Advisory Project 14,Operations Consulting,2025-06-01,2025-11-28,Completed,3497,283150.69,428167.6
+P3015,C1008,Advisory Project 15,Data & Analytics,2025-07-07,2025-11-04,Active,409,24477.9,46316.66
+P3016,C1021,Advisory Project 16,Risk & Advisory,2025-04-08,2025-12-04,Active,2825,239017.32,387191.02
+P3017,C1018,Advisory Project 17,Technology Consulting,2025-05-11,2026-01-06,Active,2060,159796.77,279364.42
+P3018,C1030,Advisory Project 18,Risk & Advisory,2025-06-20,2025-12-17,At Risk,3031,137684.77,430239.07
+P3019,C1018,Advisory Project 19,Operations Consulting,2025-07-02,2025-12-29,Completed,1472,120011.81,179568.88
+P3020,C1046,Advisory Project 20,Risk & Advisory,2025-12-30,2026-06-28,Active,3625,147966.41,301306.55
+P3021,C1047,Advisory Project 21,Operations Consulting,2025-02-08,2025-08-07,Active,1716,130197.18,187023.75
+P3022,C1031,Advisory Project 22,Operations Consulting,2026-06-11,2026-10-09,Completed,4545,245571.64,401668.22
+P3023,C1038,Advisory Project 23,Operations Consulting,2026-05-12,2026-11-08,Active,4083,322143.46,601444.68
+P3024,C1032,Advisory Project 24,Operations Consulting,2026-05-31,2026-07-30,Active,3673,287973.61,488978.02
+P3025,C1011,Advisory Project 25,Operations Consulting,2025-12-15,2026-08-12,At Risk,545,41036.47,68999.67
+P3026,C1045,Advisory Project 26,Technology Consulting,2026-02-01,2026-09-29,Active,3440,256285.24,288701.2
+P3027,C1025,Advisory Project 27,Data & Analytics,2025-06-10,2025-07-10,Completed,1862,93535.63,172895.58
+P3028,C1033,Advisory Project 28,Strategy Consulting,2025-01-16,2025-07-15,At Risk,1984,77467.19,289587.29
+P3029,C1038,Advisory Project 29,Data & Analytics,2026-05-08,2026-07-07,Active,882,48641.43,78630.57
+P3030,C1041,Advisory Project 30,Operations Consulting,2026-03-02,2026-05-31,Active,3579,156317.21,303527.54
+P3031,C1008,Advisory Project 31,Technology Consulting,2025-04-18,2025-10-15,Active,1649,115013.72,133738.36
+P3032,C1011,Advisory Project 32,Risk & Advisory,2026-03-26,2026-05-25,On Hold,1030,53874.14,162550.22
+P3033,C1022,Advisory Project 33,Technology Consulting,2025-11-07,2026-05-06,On Hold,1061,88891.12,125801.63
+P3034,C1024,Advisory Project 34,Operations Consulting,2025-06-19,2025-12-16,Completed,3903,261690.7,431191.2
+P3035,C1041,Advisory Project 35,Technology Consulting,2026-02-18,2026-06-18,Active,3252,247555.34,324017.53
+P3036,C1017,Advisory Project 36,Technology Consulting,2025-09-08,2025-10-08,Completed,2866,119300.79,328946.82
+P3037,C1012,Advisory Project 37,Operations Consulting,2025-05-21,2025-08-19,At Risk,1387,108325.7,171882.04
+P3038,C1046,Advisory Project 38,Technology Consulting,2025-10-01,2026-01-29,Completed,1946,157894.27,257335.61
+P3039,C1032,Advisory Project 39,Strategy Consulting,2026-02-20,2026-12-17,At Risk,1049,62261.4,99493.01
+P3040,C1015,Advisory Project 40,Strategy Consulting,2025-02-08,2025-06-08,Completed,1368,89347.7,133752.79
+P3041,C1016,Advisory Project 41,Technology Consulting,2025-01-29,2025-04-29,Completed,3037,222431.37,241768.5
+P3042,C1022,Advisory Project 42,Risk & Advisory,2026-04-22,2026-08-20,Completed,1500,65612.9,197850.95
+P3043,C1028,Advisory Project 43,Operations Consulting,2025-11-14,2026-03-14,Active,840,50507.78,116672.54
+P3044,C1020,Advisory Project 44,Strategy Consulting,2025-09-02,2026-03-01,Active,1169,64216.85,119836.11
+P3045,C1033,Advisory Project 45,Risk & Advisory,2025-09-29,2025-11-28,Completed,1743,73761.49,149219.08
+P3046,C1010,Advisory Project 46,Technology Consulting,2026-03-16,2026-09-12,Active,4758,253966.44,436208.38
+P3047,C1040,Advisory Project 47,Risk & Advisory,2025-08-27,2025-12-25,On Hold,4129,158589.17,671827.54
+P3048,C1032,Advisory Project 48,Data & Analytics,2026-01-12,2026-11-08,At Risk,4306,156267.3,419423.71
+P3049,C1050,Advisory Project 49,Strategy Consulting,2025-09-23,2025-12-22,Completed,1977,82556.19,292731.17
+P3050,C1033,Advisory Project 50,Technology Consulting,2025-12-25,2026-04-24,Active,4408,366550.57,558783.01
+P3051,C1002,Advisory Project 51,Operations Consulting,2025-12-06,2026-08-03,Active,3751,234349.26,368042.18
+P3052,C1033,Advisory Project 52,Technology Consulting,2026-01-24,2026-03-25,Active,2749,228967.26,237348.86
+P3053,C1033,Advisory Project 53,Operations Consulting,2025-01-03,2025-08-31,Completed,4002,226612.83,348342.57
+P3054,C1041,Advisory Project 54,Technology Consulting,2026-03-05,2026-09-01,Completed,1641,83019.51,221356.77
+P3055,C1013,Advisory Project 55,Risk & Advisory,2025-05-22,2025-07-21,At Risk,1525,91968.32,220437.12
+P3056,C1030,Advisory Project 56,Risk & Advisory,2026-01-11,2026-04-11,Active,3001,170983.73,411811.13
+P3057,C1033,Advisory Project 57,Risk & Advisory,2025-11-20,2026-05-19,At Risk,1590,64050.34,191682.17
+P3058,C1013,Advisory Project 58,Data & Analytics,2025-05-26,2025-07-25,On Hold,4531,303764.2,379562.22
+P3059,C1026,Advisory Project 59,Operations Consulting,2025-10-20,2026-02-17,Active,4848,222047.66,671268.38
+P3060,C1022,Advisory Project 60,Risk & Advisory,2026-03-08,2026-06-06,On Hold,472,31142.28,62997.92
+P3061,C1039,Advisory Project 61,Data & Analytics,2026-02-03,2026-06-03,Active,2314,156218.27,234529.13
+P3062,C1002,Advisory Project 62,Operations Consulting,2025-12-10,2026-01-09,Active,2872,122350.77,393548.98
+P3063,C1038,Advisory Project 63,Technology Consulting,2025-05-20,2026-01-15,Completed,3446,131180.54,401991.3
+P3064,C1039,Advisory Project 64,Data & Analytics,2025-07-06,2026-05-02,Active,1107,81960.15,140317.21
+P3065,C1026,Advisory Project 65,Strategy Consulting,2025-03-02,2025-12-27,Completed,2204,127810.01,316213.71
+P3066,C1046,Advisory Project 66,Data & Analytics,2026-01-15,2026-07-14,Completed,4113,155916.38,646937.65
+P3067,C1050,Advisory Project 67,Data & Analytics,2026-03-16,2026-05-15,Completed,2964,251179.19,423082.47
+P3068,C1015,Advisory Project 68,Operations Consulting,2025-11-15,2026-05-14,Active,2875,108930.96,271290.06
+P3069,C1034,Advisory Project 69,Technology Consulting,2025-10-29,2025-11-28,Completed,4010,279704.56,417960.17
+P3070,C1042,Advisory Project 70,Strategy Consulting,2025-12-10,2026-01-09,Completed,4655,391876.27,714660.12
+P3071,C1044,Advisory Project 71,Risk & Advisory,2025-01-11,2025-04-11,Completed,3223,151348.87,338260.41
+P3072,C1049,Advisory Project 72,Risk & Advisory,2025-03-03,2025-07-01,Active,2135,89910.12,210476.76
+P3073,C1040,Advisory Project 73,Data & Analytics,2025-08-14,2026-02-10,Active,1985,81522.46,219378.97
+P3074,C1011,Advisory Project 74,Operations Consulting,2025-06-02,2025-11-29,Completed,466,23376.31,57288.31
+P3075,C1003,Advisory Project 75,Operations Consulting,2025-11-06,2026-03-06,Active,3461,138620.98,423657.6
+P3076,C1006,Advisory Project 76,Risk & Advisory,2025-08-31,2025-11-29,Completed,2828,196851.61,430674.15
+P3077,C1009,Advisory Project 77,Strategy Consulting,2026-05-08,2027-03-04,Completed,4553,173535.73,461650.45
+P3078,C1006,Advisory Project 78,Technology Consulting,2026-01-01,2026-05-01,Completed,741,44809.09,62048.64
+P3079,C1009,Advisory Project 79,Strategy Consulting,2025-11-26,2026-03-26,Completed,3174,269265.79,294982.48
+P3080,C1039,Advisory Project 80,Technology Consulting,2025-04-17,2025-06-16,At Risk,3217,243522.12,449603.11
+P3081,C1031,Advisory Project 81,Risk & Advisory,2025-08-14,2026-02-10,On Hold,3061,201294.34,347442.12
+P3082,C1032,Advisory Project 82,Technology Consulting,2025-08-06,2026-02-02,At Risk,1632,82110.3,147886.95
+P3083,C1041,Advisory Project 83,Operations Consulting,2026-05-21,2026-08-19,Completed,4274,282916.54,649282.4
+P3084,C1050,Advisory Project 84,Data & Analytics,2025-09-16,2025-11-15,Active,2801,171847.16,380499.01
+P3085,C1012,Advisory Project 85,Data & Analytics,2026-06-01,2026-11-28,Active,1894,106640.1,271536.72
+P3086,C1008,Advisory Project 86,Risk & Advisory,2025-02-23,2025-06-23,Completed,4611,191520.28,648632.84
+P3087,C1008,Advisory Project 87,Operations Consulting,2025-02-16,2025-05-17,Active,1061,84169.35,117619.42
+P3088,C1050,Advisory Project 88,Strategy Consulting,2026-06-05,2027-04-01,Completed,4283,246226.38,548993.76
+P3089,C1028,Advisory Project 89,Operations Consulting,2025-04-09,2025-06-08,Active,4019,179774.39,454428.0
+P3090,C1020,Advisory Project 90,Data & Analytics,2025-01-20,2025-05-20,Completed,2268,121083.91,352356.87
+P3091,C1047,Advisory Project 91,Data & Analytics,2026-05-05,2026-12-31,Completed,2734,152301.54,397706.91
+P3092,C1007,Advisory Project 92,Operations Consulting,2026-02-23,2026-05-24,Completed,3774,288246.4,479928.0
+P3093,C1011,Advisory Project 93,Operations Consulting,2025-03-03,2025-07-01,Completed,1416,101499.9,196268.48
+P3094,C1020,Advisory Project 94,Data & Analytics,2025-05-25,2025-08-23,Completed,4806,353073.97,450631.81
+P3095,C1016,Advisory Project 95,Strategy Consulting,2025-08-04,2025-11-02,Active,607,21579.8,73205.79
+P3096,C1004,Advisory Project 96,Risk & Advisory,2025-01-03,2025-10-30,On Hold,3065,171050.6,426046.9
+P3097,C1006,Advisory Project 97,Risk & Advisory,2025-06-09,2025-09-07,Active,2893,170881.43,387632.17
+P3098,C1022,Advisory Project 98,Operations Consulting,2025-04-30,2025-12-26,At Risk,1032,37110.32,92703.24
+P3099,C1026,Advisory Project 99,Risk & Advisory,2025-03-30,2025-06-28,Completed,2502,120072.63,234548.69
+P3100,C1003,Advisory Project 100,Data & Analytics,2025-11-25,2026-02-23,Active,3359,245255.68,302454.36
+P3101,C1041,Advisory Project 101,Data & Analytics,2025-12-23,2026-01-22,Active,3483,145782.66,493175.54
+P3102,C1042,Advisory Project 102,Operations Consulting,2025-09-24,2026-01-22,Completed,2331,143975.4,349151.57
+P3103,C1014,Advisory Project 103,Operations Consulting,2025-11-19,2026-02-17,Active,4119,188485.83,367510.08
+P3104,C1011,Advisory Project 104,Operations Consulting,2025-07-14,2026-03-11,Active,2962,105465.09,359809.52
+P3105,C1018,Advisory Project 105,Strategy Consulting,2025-11-28,2026-03-28,Completed,2079,97837.89,269568.84
+P3106,C1012,Advisory Project 106,Risk & Advisory,2025-06-19,2026-04-15,Completed,636,53292.79,90839.66
+P3107,C1023,Advisory Project 107,Operations Consulting,2026-06-05,2026-09-03,Completed,4843,363597.21,607961.13
+P3108,C1012,Advisory Project 108,Technology Consulting,2026-04-08,2026-12-04,At Risk,1940,160978.93,268121.7
+P3109,C1013,Advisory Project 109,Technology Consulting,2025-02-09,2025-08-08,Completed,4343,257942.51,460442.02
+P3110,C1025,Advisory Project 110,Data & Analytics,2026-06-21,2026-12-18,Completed,763,30891.44,70336.19
+P3111,C1045,Advisory Project 111,Risk & Advisory,2025-09-18,2026-03-17,Active,2768,172717.59,321172.04
+P3112,C1019,Advisory Project 112,Operations Consulting,2026-01-30,2026-07-29,Completed,685,39537.42,84795.38
+P3113,C1046,Advisory Project 113,Technology Consulting,2025-08-14,2025-12-12,Active,548,42315.38,74381.98
+P3114,C1036,Advisory Project 114,Risk & Advisory,2025-05-04,2025-07-03,At Risk,4437,177054.62,622523.0
+P3115,C1045,Advisory Project 115,Data & Analytics,2025-02-07,2025-03-09,Completed,4951,294149.09,635042.21
+P3116,C1008,Advisory Project 116,Strategy Consulting,2025-11-24,2026-07-22,Completed,2166,92060.27,191225.98
+P3117,C1029,Advisory Project 117,Risk & Advisory,2025-09-08,2026-01-06,Active,1412,72342.12,172828.72
+P3118,C1032,Advisory Project 118,Risk & Advisory,2025-06-25,2025-12-22,On Hold,3231,232205.04,263830.97
+P3119,C1044,Advisory Project 119,Strategy Consulting,2026-03-30,2026-07-28,Completed,2907,170934.24,309386.04
+P3120,C1018,Advisory Project 120,Risk & Advisory,2025-02-06,2025-04-07,Active,1923,103446.66,230578.12

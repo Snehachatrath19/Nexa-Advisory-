@@ -1,0 +1,51 @@
+Client_ID,Client_Name,Industry,Region,Client_Size,Contract_Type
+C1001,Client 1,Telecom,APAC,Enterprise,Fixed Price
+C1002,Client 2,Healthcare,North America,Enterprise,Fixed Price
+C1003,Client 3,FMCG,Middle East,Large,Fixed Price
+C1004,Client 4,Technology,Europe,Large,Fixed Price
+C1005,Client 5,Telecom,Middle East,Large,Time & Material
+C1006,Client 6,Energy,Europe,Enterprise,Time & Material
+C1007,Client 7,Retail,Europe,Large,Fixed Price
+C1008,Client 8,Telecom,Middle East,Enterprise,Fixed Price
+C1009,Client 9,FMCG,India,Mid-Market,Fixed Price
+C1010,Client 10,Technology,Europe,Mid-Market,Time & Material
+C1011,Client 11,Healthcare,Europe,Large,Time & Material
+C1012,Client 12,FMCG,Middle East,Enterprise,Fixed Price
+C1013,Client 13,FMCG,Europe,Enterprise,Retainer
+C1014,Client 14,Retail,Europe,Enterprise,Fixed Price
+C1015,Client 15,Automotive,Middle East,Large,Retainer
+C1016,Client 16,Technology,Middle East,Enterprise,Time & Material
+C1017,Client 17,Insurance,North America,Enterprise,Fixed Price
+C1018,Client 18,FMCG,India,Enterprise,Fixed Price
+C1019,Client 19,Automotive,India,Mid-Market,Time & Material
+C1020,Client 20,Insurance,Europe,Large,Time & Material
+C1021,Client 21,Technology,India,Large,Time & Material
+C1022,Client 22,Banking,Europe,Large,Time & Material
+C1023,Client 23,Energy,North America,Enterprise,Time & Material
+C1024,Client 24,Automotive,Middle East,Large,Time & Material
+C1025,Client 25,Manufacturing,Middle East,Large,Fixed Price
+C1026,Client 26,Banking,Middle East,Enterprise,Fixed Price
+C1027,Client 27,Energy,India,Mid-Market,Fixed Price
+C1028,Client 28,Retail,North America,Large,Time & Material
+C1029,Client 29,Telecom,India,Large,Time & Material
+C1030,Client 30,Healthcare,India,Mid-Market,Retainer
+C1031,Client 31,Manufacturing,North America,Large,Fixed Price
+C1032,Client 32,Retail,North America,Enterprise,Time & Material
+C1033,Client 33,Technology,North America,Enterprise,Time & Material
+C1034,Client 34,Retail,North America,Large,Fixed Price
+C1035,Client 35,Telecom,Middle East,Enterprise,Time & Material
+C1036,Client 36,Technology,APAC,Enterprise,Time & Material
+C1037,Client 37,Manufacturing,APAC,Mid-Market,Retainer
+C1038,Client 38,Telecom,North America,Enterprise,Fixed Price
+C1039,Client 39,Insurance,APAC,Enterprise,Fixed Price
+C1040,Client 40,Healthcare,APAC,Enterprise,Time & Material
+C1041,Client 41,Manufacturing,North America,Mid-Market,Time & Material
+C1042,Client 42,Insurance,APAC,Enterprise,Fixed Price
+C1043,Client 43,Energy,India,Large,Fixed Price
+C1044,Client 44,Manufacturing,Europe,Enterprise,Retainer
+C1045,Client 45,Energy,Europe,Enterprise,Fixed Price
+C1046,Client 46,Technology,North America,Enterprise,Time & Material
+C1047,Client 47,Insurance,Middle East,Enterprise,Time & Material
+C1048,Client 48,Healthcare,North America,Large,Time & Material
+C1049,Client 49,Telecom,Middle East,Large,Time & Material
+C1050,Client 50,FMCG,Europe,Large,Fixed Price
