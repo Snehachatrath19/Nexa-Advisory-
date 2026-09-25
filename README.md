@@ -15,6 +15,20 @@ The objective is to understand project profitability, revenue performance, budge
 - Excel
 
 ## 📌 Dashboard
+The Power BI dashboard provides an executive view of Nexa Advisory's financial and operational performance.
+
+Key areas covered include:
+
+- Revenue and profit performance
+- Profit margin analysis
+- Service-line performance
+- Project profitability
+- Client revenue and profitability
+- Budget vs actual cost
+- Project status and risk
+- Revenue leakage opportunities
+  
+![Uploading image.png…]()
 
 
 ## 📈 Key Results
